@@ -1,4 +1,7 @@
+File-Organsizer By Jay Mee @ J~Net 2024
 
+
+https://github.com/jamieduk/File-Organsizer
 
 
 gcc `pkg-config --cflags gtk+-3.0` -o file-organizer file_organizer.c `pkg-config --libs gtk+-3.0`
